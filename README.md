@@ -2,7 +2,7 @@
 
 Computer Science undergraduate at the University of Electronic Science and Technology of
 China (UESTC), graduating in June 2027. I like building small, well-tested software and
-working with data.
+working with data and security.
 
 ## Education
 
@@ -27,8 +27,10 @@ mathematics for computer science.
 | Area | Tools |
 |------|-------|
 | Languages | Java, Python, SQL |
+| Libraries and frameworks | FastAPI, Flask, scikit-learn, pandas, Swing, Tkinter |
 | Databases | PostgreSQL, SQLite |
-| Tools | Git, GitHub, GitHub Actions, Microsoft Excel |
+| Security | Password hashing (Argon2id), two-factor authentication, port and web site scanning, phishing detection |
+| Tools | Git, GitHub, GitHub Actions, Docker, Microsoft Excel |
 | Foundations | Data structures, algorithms, computer architecture, discrete mathematics |
 
 ## Projects
@@ -36,5 +38,8 @@ mathematics for computer science.
 | Project | What it is | Built with |
 |---------|------------|------------|
 | [PaperSearch](https://github.com/TBAILIBILLAL/papersearch) | A search engine over 100,000 computer science papers, with ranking, autocomplete and spelling correction written from scratch | Python, FastAPI, PostgreSQL, Docker |
+| [Phishing Email Detector](https://github.com/TBAILIBILLAL/phishing-detector) | A machine learning model that labels an email as phishing or safe, with 98.3% accuracy on 3,508 real emails it was not trained on | Python, scikit-learn, pandas |
+| [Secure Login](https://github.com/TBAILIBILLAL/secure-login) | A login web app with Argon2id password hashing, server-side sessions, two-factor authentication and protection against guessing | Python, Flask, SQLite |
+| [Vulnerability Scanner](https://github.com/TBAILIBILLAL/vulnerability-scanner) | A scanner that checks a host or web site for open ports, weak configuration and outdated software, and writes a report with fixes | Python, standard library only |
 | [Password Strength Analyzer](https://github.com/TBAILIBILLAL/password-analyzer) | A desktop and command-line tool that rates passwords, suggests stronger ones and refuses reused ones | Python, Tkinter, SQLite |
 | [Fee Report](https://github.com/TBAILIBILLAL/fee-report) | A student fee management desktop application with admin and accountant logins and a due fee report | Java, Swing, SQLite |
