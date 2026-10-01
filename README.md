@@ -33,6 +33,8 @@ mathematics for computer science.
 
 ## Projects
 
-**Fee Report** is a student fee management desktop application written in Java Swing
-with a SQLite database. It has separate admin and accountant logins, salted password
-hashing, a due fee report, automated database tests and a CI build.
+| Project | What it is | Built with |
+|---------|------------|------------|
+| [PaperSearch](https://github.com/TBAILIBILLAL/papersearch) | A search engine over 100,000 computer science papers, with ranking, autocomplete and spelling correction written from scratch | Python, FastAPI, PostgreSQL, Docker |
+| [Password Strength Analyzer](https://github.com/TBAILIBILLAL/password-analyzer) | A desktop and command-line tool that rates passwords, suggests stronger ones and refuses reused ones | Python, Tkinter, SQLite |
+| [Fee Report](https://github.com/TBAILIBILLAL/fee-report) | A student fee management desktop application with admin and accountant logins and a due fee report | Java, Swing, SQLite |
