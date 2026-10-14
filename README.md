@@ -55,6 +55,7 @@ English-taught program, August 2023 to June 2027
 
 | Certification | Issuer | Date |
 |---------------|--------|------|
+| [Google Analytics Certification](https://skillshop.credential.net/962cd851-a8f1-483f-90e9-213f84382c73) | Google (Skillshop) | October 2026 |
 | Computer Science, Professional Certification | Codecademy | September 2026 |
 | Analyze Data with Microsoft Excel | Codecademy | September 2026 |
 
